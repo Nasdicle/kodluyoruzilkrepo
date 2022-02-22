@@ -10,10 +10,11 @@ https://github.com/Nasdicle/kodluyoruzilkrepo.git
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-...
+'''
 cd kodluyoruzilkrepo
 code .
-...
+'''
+
 ## Contributing
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 ## License
